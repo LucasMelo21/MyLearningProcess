@@ -1,0 +1,14 @@
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\bin\Debug\net8.0\MyLearningProcess.exe
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\bin\Debug\net8.0\MyLearningProcess.deps.json
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\bin\Debug\net8.0\MyLearningProcess.runtimeconfig.json
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\bin\Debug\net8.0\MyLearningProcess.dll
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\bin\Debug\net8.0\MyLearningProcess.pdb
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\MyLearningProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\MyLearningProcess.AssemblyInfoInputs.cache
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\MyLearningProcess.AssemblyInfo.cs
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\MyLearningProcess.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\MyLearningProcess.dll
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\refint\MyLearningProcess.dll
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\MyLearningProcess.pdb
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\MyLearningProcess.genruntimeconfig.cache
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\ref\MyLearningProcess.dll
