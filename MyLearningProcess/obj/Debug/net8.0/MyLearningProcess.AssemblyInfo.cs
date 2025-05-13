@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyLearningProcess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ec1a208b5597908c21186a08316c740e6c128e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyLearningProcess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyLearningProcess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

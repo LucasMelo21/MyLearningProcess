@@ -4,22 +4,22 @@ using MyLearningProcess.Entities;
 
 namespace MyLearningProcess {
     //This project was created to show my process of studying and all that i learned about coding
-    //Learning IComparable
+    //Exercise IComparable
     class Program {
         static void Main(string[] args) {
             string path = @"c:\temp\in.txt"; 
 
             try {
-                using(StreamReader sr = File.OpenText(path)) {
-                    List<Employee> list = new List<Employee>();
+                using (StreamReader sr = File.OpenText(path)) {
+                    List<Student> student = new List<Student>();
                     while (!sr.EndOfStream) {
-                        list.Add(new Employee(sr.ReadLine()));
+                        student.Add(new Student(sr.ReadLine()));
                     }
-                    list.Sort();
-                    foreach (Employee emp in list) {
-                        Console.WriteLine(emp);
+                    student.Sort();
+                    foreach(Student s in student) {
+                        Console.WriteLine(s);
                     }
-                } 
+                }
             }
             catch (IOException ex) {
                 Console.WriteLine("An error ocurred");

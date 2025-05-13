@@ -12,3 +12,4 @@ C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\refint\MyL
 C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\MyLearningProcess.pdb
 C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\MyLearningProcess.genruntimeconfig.cache
 C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\ref\MyLearningProcess.dll
+C:\temp\Projetos\MyLearningProcess\MyLearningProcess\obj\Debug\net8.0\MyLearningProcess.sourcelink.json

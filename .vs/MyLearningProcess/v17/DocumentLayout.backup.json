@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{0AB1588A-15E1-4F94-9B68-05CE5033F898}|MyLearningProcess\\MyLearningProcess.csproj|solutionrelative:mylearningprocess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AB1588A-15E1-4F94-9B68-05CE5033F898}|MyLearningProcess\\MyLearningProcess.csproj|c:\\temp\\projetos\\mylearningprocess\\mylearningprocess\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AB1588A-15E1-4F94-9B68-05CE5033F898}|MyLearningProcess\\MyLearningProcess.csproj|solutionrelative:mylearningprocess\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AB1588A-15E1-4F94-9B68-05CE5033F898}|MyLearningProcess\\MyLearningProcess.csproj|c:\\temp\\projetos\\mylearningprocess\\mylearningprocess\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB1588A-15E1-4F94-9B68-05CE5033F898}|MyLearningProcess\\MyLearningProcess.csproj|solutionrelative:mylearningprocess\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\temp\\Projetos\\MyLearningProcess\\MyLearningProcess\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "MyLearningProcess\\Entities\\Employee.cs",
-              "ToolTip": "C:\\temp\\Projetos\\MyLearningProcess\\MyLearningProcess\\Entities\\Employee.cs",
-              "RelativeToolTip": "MyLearningProcess\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\temp\\Projetos\\MyLearningProcess\\MyLearningProcess\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MyLearningProcess\\Entities\\Product.cs",
+              "ToolTip": "C:\\temp\\Projetos\\MyLearningProcess\\MyLearningProcess\\Entities\\Product.cs",
+              "RelativeToolTip": "MyLearningProcess\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T21:53:09.909Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "MyLearningProcess\\Program.cs",
               "ToolTip": "C:\\temp\\Projetos\\MyLearningProcess\\MyLearningProcess\\Program.cs",
               "RelativeToolTip": "MyLearningProcess\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T13:03:56.618Z",
               "EditorCaption": ""
